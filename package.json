@@ -22,6 +22,7 @@
 		"@tailwindcss/forms": "^0.5.10",
 		"@tailwindcss/vite": "^4.1.17",
 		"@types/node": "^22",
+		"@types/nodemailer": "^7.0.4",
 		"eslint": "^9.39.1",
 		"eslint-config-prettier": "^10.1.8",
 		"eslint-plugin-svelte": "^3.13.0",
@@ -37,6 +38,7 @@
 		"vite": "^7.2.2"
 	},
 	"dependencies": {
-		"better-svelte-email": "^1.1.0"
+		"better-svelte-email": "^1.1.0",
+		"nodemailer": "^7.0.11"
 	}
 }
